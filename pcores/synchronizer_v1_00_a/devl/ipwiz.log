@@ -1,0 +1,71 @@
+HDL language for the peripheral (top level) design unit synchronizer is vhdl ...
+INFO:EDK:3391 - Create temporary xst project file:
+   C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repositor
+   y\MyProcessorIPLib\pcores/my_xsvi_synchronizer.prj
+Compiling vhdl file
+"C:/Users/mt171850/Documents/Pour_etudiant_TP_video/synchronizer.vhd" in Library
+my_xsvi_synchronizer_v1_00_a.
+Entity <synchronizer> compiled.
+Entity <synchronizer> (Architecture <synchronizer_arch1>) compiled.
+
+
+Analyzing HDL attributes ...
+ERROR:EDK - Could not find top level entity my_xsvi_synchronizer
+WARNING:EDK:3590 - Unable to delete temporary project file
+   C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repositor
+   y\MyProcessorIPLib\pcores\my_xsvi_synchronizer.prj : 13
+HDL language for the peripheral (top level) design unit synchronizer is vhdl ...
+INFO:EDK:3391 - Create temporary xst project file:
+   C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repositor
+   y\MyProcessorIPLib\pcores/synchronizer.prj
+Compiling vhdl file
+"C:/Users/mt171850/Documents/Pour_etudiant_TP_video/synchronizer.vhd" in Library
+synchronizer_v1_00_a.
+Entity <synchronizer> compiled.
+Entity <synchronizer> (Architecture <synchronizer_arch1>) compiled.
+
+
+Analyzing HDL attributes ...
+Entity name = synchronizer
+INFO:EDK:1607 - IPTYPE set to value : PERIPHERAL
+INFO:EDK:1511 - IMP_NETLIST set to value : TRUE
+INFO:EDK:1486 - HDL set to value : VHDL
+WARNING:EDK:3590 - Unable to delete temporary project file
+   C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repositor
+   y\MyProcessorIPLib\pcores\synchronizer.prj : 13
+INFO:EDK:1951 - No SIGIS=CLK specified for probable Clock signal vid_clk
+INFO:EDK:1951 - No SIGIS=CLK specified for probable Clock signal vid_clk
+Copying file synchronizer.vhd to
+C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repository\M
+yProcessorIPLib\pcores/synchronizer_v1_00_a/hdl/vhdl/ ...
+
+Thank you for using Create and Import Peripheral Wizard! Please find your
+imported peripheral under
+C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repository\M
+yProcessorIPLib\pcores\synchronizer_v1_00_a.
+
+Summary:
+
+  Logical library     : synchronizer_v1_00_a
+  Version             : 1.00.a
+  Bus interface(s)    : None
+
+The following sub-directories will be created:
+
+  - synchronizer_v1_00_a\data
+  - synchronizer_v1_00_a\hdl
+  - synchronizer_v1_00_a\hdl\vhdl
+
+
+The following HDL source files will be copied into the
+synchronizer_v1_00_a\hdl\vhdl directory:
+
+  - synchronizer.vhd
+
+The following files will be created under the synchronizer_v1_00_a\data
+directory:
+
+  - synchronizer_v2_1_0.mpd
+  - synchronizer_v2_1_0.pao
+
+

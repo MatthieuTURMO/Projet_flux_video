@@ -1,0 +1,9 @@
+-batch 
+-create my_xsvi_mux 
+-ver 1.00.a 
+-dir "C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repository\MyProcessorIPLib" 
+-lang vhdl 
+-bus plbv46 s 
+-reg 1 
+-xps 
+-driver 

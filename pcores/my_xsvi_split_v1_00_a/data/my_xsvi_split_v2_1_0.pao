@@ -1,0 +1,7 @@
+##############################################################################
+## Filename:          C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repository\MyProcessorIPLib\pcores/my_xsvi_split_v1_00_a/data/my_xsvi_split_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Tue Nov 15 17:31:03 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib my_xsvi_split_v1_00_a my_xsvi_split vhdl

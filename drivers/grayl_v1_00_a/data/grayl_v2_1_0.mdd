@@ -1,0 +1,15 @@
+##############################################################################
+## Filename:          C:\Users\mt171850\Documents\Pour_etudiant_TP_video\IVK_EDK_Demo\IVK_Repository\MyProcessorIPLib/drivers/grayl_v1_00_a/data/grayl_v2_1_0.mdd
+## Description:       Microprocessor Driver Definition
+## Date:              Mon Nov 28 15:11:13 2016 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+OPTION psf_version = 2.1.0;
+
+BEGIN DRIVER grayl
+
+  OPTION supported_peripherals = (grayl);
+  OPTION depends = (common_v1_00_a);
+  OPTION copyfiles = all;
+
+END DRIVER
